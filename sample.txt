@@ -1,3 +1,4 @@
 typo
 fixed another typo
 fixed bug
+fixed another bug
